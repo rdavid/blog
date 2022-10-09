@@ -1,0 +1,20 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru-ru'
+title = 'Заметки и фотографии'
+theme = "hyde-hyde"
+
+[params.social]
+gravatar = 'pub@rabkin.co.il'
+github = 'rdavid'
+twitter = 'rdavid'
+email= 'pub@rabkin.co.il'
+
+[params]
+author = 'David Rabkin'
+description = 'Заметки и фотографии'
+copyright = 'David Rabkin'
+license = 'CC BY-SA 4.0'
+licenseURL = 'https://creativecommons.org/licenses/by-sa/4.0/deed.ru'
+postNavigation = false
+
+themeColor='theme-base-00'
